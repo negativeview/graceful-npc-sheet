@@ -1,0 +1,36 @@
+{
+    "id": "gracefulnpcsheet",
+    "title": "Graceful NPC Sheet",
+    "description": "Better NPC sheets for GMs. More fields for social elements, better access for the fields you want in the moment.",
+    "version": "1.0.0",
+    "compatibility": {
+      "minimum": "11",
+      "verified": "11",
+      "maximum": "11"
+    },
+    "download": "",
+    "url": "https://github.com/negativeview/graceful-npc-sheet",
+    "manifest": "",
+    "esmodules": [
+        "/src/main.js"
+    ],
+    "styles": [
+      "style/main.css"
+    ],
+    "languages": [
+        {
+            "lang": "en",
+            "name": "English",
+            "path": "lang/en.json"
+        }
+    ],
+    "authors": [
+      {
+        "name": "Daniel Grace",
+        "discord": "negativeview",
+        "email": "dgrace@gracefulcode.com",
+        "url": "https://www.gracefulcode.com"
+      }
+    ],
+    "readme": "README.md"
+  }

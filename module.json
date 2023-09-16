@@ -17,13 +17,6 @@
     "styles": [
       "style/main.css"
     ],
-    "languages": [
-        {
-            "lang": "en",
-            "name": "English",
-            "path": "lang/en.json"
-        }
-    ],
     "authors": [
       {
         "name": "Daniel Grace",

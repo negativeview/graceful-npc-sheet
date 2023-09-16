@@ -8,9 +8,9 @@
       "verified": "11",
       "maximum": "11"
     },
-    "download": "",
+    "download": "https://github.com/negativeview/graceful-npc-sheet/archive/refs/heads/master.zip",
     "url": "https://github.com/negativeview/graceful-npc-sheet",
-    "manifest": "",
+    "manifest": "https://raw.githubusercontent.com/negativeview/graceful-npc-sheet/master/module.json",
     "esmodules": [
         "/src/main.js"
     ],

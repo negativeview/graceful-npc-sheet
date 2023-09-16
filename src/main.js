@@ -1,4 +1,4 @@
-export class GracefulNPCSheet extends dnd5e.applications.actor.ActorSheet5eCharacter {
+class GracefulNPCSheet extends dnd5e.applications.actor.ActorSheet5eCharacter {
     get template() {
         if (!game.user.isGM && this.actor.limited && !game.settings.get(CONSTANTS.MODULE_ID, "expandedSheetEnabled"))
             return "modules/gracefulnpcsheet/templates/a.hbs";
